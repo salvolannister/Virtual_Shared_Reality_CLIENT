@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 1584157c4400ed440a382a619c9b5950
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: basic floor
+    100002: column1
+    100004: column2
+    100006: column3
+    100008: column4
+    100010: garden floor
+    100012: //RootNode
+    100014: ringhiera
+    100016: ringhiera2
+    100018: roof
+    100020: wall1
+    100022: wall2
+    400000: basic floor
+    400002: column1
+    400004: column2
+    400006: column3
+    400008: column4
+    400010: garden floor
+    400012: //RootNode
+    400014: ringhiera
+    400016: ringhiera2
+    400018: roof
+    400020: wall1
+    400022: wall2
+    2100000: base
+    2100002: 'Material #40'
+    2100004: 'Material #38'
+    2100006: top
+    2300000: basic floor
+    2300002: column1
+    2300004: column2
+    2300006: column3
+    2300008: column4
+    2300010: garden floor
+    2300012: ringhiera
+    2300014: ringhiera2
+    2300016: roof
+    2300018: wall1
+    2300020: wall2
+    3300000: basic floor
+    3300002: column1
+    3300004: column2
+    3300006: column3
+    3300008: column4
+    3300010: garden floor
+    3300012: ringhiera
+    3300014: ringhiera2
+    3300016: roof
+    3300018: wall1
+    3300020: wall2
+    4300000: basic floor
+    4300002: ringhiera
+    4300004: garden floor
+    4300006: roof
+    4300008: wall1
+    4300010: ringhiera2
+    4300012: column1
+    4300014: column4
+    4300016: column3
+    4300018: column2
+    4300020: wall2
+    7400000: basic floor|Box001|Take 001|BaseLayer
+    7400002: basic floor|Box004|Take 001|BaseLayer
+    7400004: basic floor|Box008|Take 001|BaseLayer
+    7400006: basic floor|Box009|Take 001|BaseLayer
+    7400008: basic floor|Line001|Take 001|BaseLayer
+    7400010: basic floor|Object001|Take 001|BaseLayer
+    7400012: basic floor|Object003|Take 001|BaseLayer
+    7400014: ringhiera|Box001|Take 001|BaseLayer
+    7400016: ringhiera|Box004|Take 001|BaseLayer
+    7400018: ringhiera|Box008|Take 001|BaseLayer
+    7400020: ringhiera|Box009|Take 001|BaseLayer
+    7400022: ringhiera|Line001|Take 001|BaseLayer
+    7400024: ringhiera|Object001|Take 001|BaseLayer
+    7400026: ringhiera|Object003|Take 001|BaseLayer
+    7400028: garden floor|Box001|Take 001|BaseLayer
+    7400030: garden floor|Box004|Take 001|BaseLayer
+    7400032: garden floor|Box008|Take 001|BaseLayer
+    7400034: garden floor|Box009|Take 001|BaseLayer
+    7400036: garden floor|Line001|Take 001|BaseLayer
+    7400038: garden floor|Object001|Take 001|BaseLayer
+    7400040: garden floor|Object003|Take 001|BaseLayer
+    7400042: roof|Box001|Take 001|BaseLayer
+    7400044: roof|Box004|Take 001|BaseLayer
+    7400046: roof|Box008|Take 001|BaseLayer
+    7400048: roof|Box009|Take 001|BaseLayer
+    7400050: roof|Line001|Take 001|BaseLayer
+    7400052: roof|Object001|Take 001|BaseLayer
+    7400054: roof|Object003|Take 001|BaseLayer
+    7400056: wall1|Box001|Take 001|BaseLayer
+    7400058: wall1|Box004|Take 001|BaseLayer
+    7400060: wall1|Box008|Take 001|BaseLayer
+    7400062: wall1|Box009|Take 001|BaseLayer
+    7400064: wall1|Line001|Take 001|BaseLayer
+    7400066: wall1|Object001|Take 001|BaseLayer
+    7400068: wall1|Object003|Take 001|BaseLayer
+    7400070: ringhiera2|Box001|Take 001|BaseLayer
+    7400072: ringhiera2|Box004|Take 001|BaseLayer
+    7400074: ringhiera2|Box008|Take 001|BaseLayer
+    7400076: ringhiera2|Box009|Take 001|BaseLayer
+    7400078: ringhiera2|Line001|Take 001|BaseLayer
+    7400080: ringhiera2|Object001|Take 001|BaseLayer
+    7400082: ringhiera2|Object003|Take 001|BaseLayer
+    7400084: column1|Box001|Take 001|BaseLayer
+    7400086: column1|Box004|Take 001|BaseLayer
+    7400088: column1|Box008|Take 001|BaseLayer
+    7400090: column1|Box009|Take 001|BaseLayer
+    7400092: column1|Line001|Take 001|BaseLayer
+    7400094: column1|Object001|Take 001|BaseLayer
+    7400096: column1|Object003|Take 001|BaseLayer
+    7400098: column4|Box001|Take 001|BaseLayer
+    7400100: column4|Box004|Take 001|BaseLayer
+    7400102: column4|Box008|Take 001|BaseLayer
+    7400104: column4|Box009|Take 001|BaseLayer
+    7400106: column4|Line001|Take 001|BaseLayer
+    7400108: column4|Object001|Take 001|BaseLayer
+    7400110: column4|Object003|Take 001|BaseLayer
+    7400112: column3|Box001|Take 001|BaseLayer
+    7400114: column3|Box004|Take 001|BaseLayer
+    7400116: column3|Box008|Take 001|BaseLayer
+    7400118: column3|Box009|Take 001|BaseLayer
+    7400120: column3|Line001|Take 001|BaseLayer
+    7400122: column3|Object001|Take 001|BaseLayer
+    7400124: column3|Object003|Take 001|BaseLayer
+    7400126: column2|Box001|Take 001|BaseLayer
+    7400128: column2|Box004|Take 001|BaseLayer
+    7400130: column2|Box008|Take 001|BaseLayer
+    7400132: column2|Box009|Take 001|BaseLayer
+    7400134: column2|Line001|Take 001|BaseLayer
+    7400136: column2|Object001|Take 001|BaseLayer
+    7400138: column2|Object003|Take 001|BaseLayer
+    7400140: wall2|Box001|Take 001|BaseLayer
+    7400142: wall2|Box004|Take 001|BaseLayer
+    7400144: wall2|Box008|Take 001|BaseLayer
+    7400146: wall2|Box009|Take 001|BaseLayer
+    7400148: wall2|Line001|Take 001|BaseLayer
+    7400150: wall2|Object001|Take 001|BaseLayer
+    7400152: wall2|Object003|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
