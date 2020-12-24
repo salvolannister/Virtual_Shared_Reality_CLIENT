@@ -1,7 +1,7 @@
 # Virtual Shared Reality CLIENT
-![Image of the assistant](Images/Doraimon.PNG)
-![Imaghe of the vase](Images/Vase.PNG)
-![Image of the painting](Images/painting.PNG)
+![Image of the shared environment from AR](Images/FirstLevel_AR.png)
+![Imaghe of the shared environment from VR ](Images/FirstLevel_VR.jpg)
+![Image of the two users working together](Images/SharedViewFromTablet.jpg)
 
 This repository contains the application XListener created with unity 2018.8.8f1 for the thesis developed in PucRio TecGraph and Politecnico of Turin, it enables a multiplayer experience between a user with a virtual reality headset (HTC Vive pro, oculus quest or rift) and a tablet/cellphone user.
 ## Getting Started
