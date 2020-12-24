@@ -1,12 +1,11 @@
-# XListener
+# Virtual Shared Reality CLIENT
 ![Image of the assistant](Images/Doraimon.PNG)
 ![Imaghe of the vase](Images/Vase.PNG)
 ![Image of the painting](Images/painting.PNG)
 
-This repository contains the application XListener created with unity 2018.8.8f1 for the thesis developed in PucRio and Politecnico di Torino in order to enable collaboration in 
-a mixed reality through an HMD and a tablet. 
+This repository contains the application XListener created with unity 2018.8.8f1 for the thesis developed in PucRio TecGraph and Politecnico of Turin, it enables a multiplayer experience between a user with a virtual reality headset (HTC Vive pro, oculus quest or rift) and a tablet/cellphone user.
 ## Getting Started
-To use the application you need to create a server, that it is provided in the repository WebApplication. 
+To use this application you need to use also the server. 
 1. Clone this project and WebApplication
 2. Change the IP field in ClientManager in the unity editor with your IP
 3. Run The application
