@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 12e1d399ee00d244b85f3dfa14a54d43
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ColonnaRossa
+    100002: Floor
+    100004: JFloor
+    100006: //RootNode
+    400000: ColonnaRossa
+    400002: Floor
+    400004: JFloor
+    400006: //RootNode
+    2100000: JFloor
+    2100002: Floor
+    2100004: Red_wood
+    2100006: black_wood
+    2300000: ColonnaRossa
+    2300002: Floor
+    2300004: JFloor
+    3300000: ColonnaRossa
+    3300002: Floor
+    3300004: JFloor
+    4300000: JFloor
+    4300002: Floor
+    4300004: ColonnaRossa
+    7400000: JFloor|basic floor|basic floor|Box001|Take 001|BaseLayer|basic floor|B
+    7400002: JFloor|basic floor|basic floor|Box004|Take 001|BaseLayer|basic floor|B
+    7400004: JFloor|basic floor|basic floor|Box008|Take 001|BaseLayer|basic floor|B
+    7400006: JFloor|basic floor|basic floor|Box009|Take 001|BaseLayer|basic floor|B
+    7400008: JFloor|basic floor|basic floor|Line001|Take 001|BaseLayer|basic floor|
+    7400010: JFloor|basic floor|basic floor|Object001|Take 001|BaseLayer|basic floo
+    7400012: JFloor|basic floor|basic floor|Object003|Take 001|BaseLayer|basic floo
+    7400014: JFloor|Box001|Box001|Box001|Take 001|BaseLayer|Box001|Box001|Take 001|
+    7400016: 'JFloor|Box001|Box001|Box004|Take 001|BaseLayer|Box001|Box004|Take '
+    7400018: JFloor|Box001|Box001|Box004|Take 001|BaseLayer|Box001|Box004|Take 001|
+    7400020: 'JFloor|Box001|Box001|Box008|Take 001|BaseLayer|Box001|Box008|Take '
+    7400022: JFloor|Box001|Box001|Box008|Take 001|BaseLayer|Box001|Box008|Take 001|
+    7400024: 'JFloor|Box001|Box001|Box009|Take 001|BaseLayer|Box001|Box009|Take '
+    7400026: JFloor|Box001|Box001|Box009|Take 001|BaseLayer|Box001|Box009|Take 001|
+    7400028: JFloor|Box001|Box001|Line001|Take 001|BaseLayer|Box001|Line001|Tak
+    7400030: JFloor|Box001|Box001|Line001|Take 001|BaseLayer|Box001|Line001|Take 00
+    7400032: JFloor|Box001|Box001|Object001|Take 001|BaseLayer|Box001|Object001
+    7400034: JFloor|Box001|Box001|Object001|Take 001|BaseLayer|Box001|Object001|Tak
+    7400036: JFloor|Box001|Box001|Object003|Take 001|BaseLayer|Box001|Object003
+    7400038: JFloor|Box001|Box001|Object003|Take 001|BaseLayer|Box001|Object003|Tak
+    7400040: JFloor|Box004|Box004|Box001|Take 001|BaseLayer|Box004|Box001|Take 001|
+    7400042: 'JFloor|Box004|Box004|Box004|Take 001|BaseLayer|Box004|Box004|Take '
+    7400044: JFloor|Box004|Box004|Box004|Take 001|BaseLayer|Box004|Box004|Take 001|
+    7400046: 'JFloor|Box004|Box004|Box008|Take 001|BaseLayer|Box004|Box008|Take '
+    7400048: JFloor|Box004|Box004|Box008|Take 001|BaseLayer|Box004|Box008|Take 001|
+    7400050: 'JFloor|Box004|Box004|Box009|Take 001|BaseLayer|Box004|Box009|Take '
+    7400052: JFloor|Box004|Box004|Box009|Take 001|BaseLayer|Box004|Box009|Take 001|
+    7400054: JFloor|Box004|Box004|Line001|Take 001|BaseLayer|Box004|Line001|Tak
+    7400056: JFloor|Box004|Box004|Line001|Take 001|BaseLayer|Box004|Line001|Take 00
+    7400058: JFloor|Box004|Box004|Object001|Take 001|BaseLayer|Box004|Object001
+    7400060: JFloor|Box004|Box004|Object001|Take 001|BaseLayer|Box004|Object001|Tak
+    7400062: JFloor|Box004|Box004|Object003|Take 001|BaseLayer|Box004|Object003
+    7400064: JFloor|Box004|Box004|Object003|Take 001|BaseLayer|Box004|Object003|Tak
+    7400066: JFloor|Box008.001|Box008.001|Box001|Take 001|BaseLayer|Box008.001|Box0
+    7400068: JFloor|Box008.001|Box008.001|Box004|Take 001|BaseLayer|Box008.001|
+    7400070: JFloor|Box008.001|Box008.001|Box004|Take 001|BaseLayer|Box008.001|Box0
+    7400072: JFloor|Box008.001|Box008.001|Box008|Take 001|BaseLayer|Box008.001|
+    7400074: JFloor|Box008.001|Box008.001|Box008|Take 001|BaseLayer|Box008.001|Box0
+    7400076: JFloor|Box008.001|Box008.001|Box009|Take 001|BaseLayer|Box008.001|
+    7400078: JFloor|Box008.001|Box008.001|Box009|Take 001|BaseLayer|Box008.001|Box0
+    7400080: JFloor|Box008.001|Box008.001|Line001|Take 001|BaseLayer|Box008.001
+    7400082: JFloor|Box008.001|Box008.001|Line001|Take 001|BaseLayer|Box008.001|Lin
+    7400084: JFloor|Box008.001|Box008.001|Object001|Take 001|BaseLayer|Box008.0
+    7400086: JFloor|Box008.001|Box008.001|Object001|Take 001|BaseLayer|Box008.001|O
+    7400088: JFloor|Box008.001|Box008.001|Object003|Take 001|BaseLayer|Box008.0
+    7400090: JFloor|Box008.001|Box008.001|Object003|Take 001|BaseLayer|Box008.001|O
+    7400092: JFloor|Box008|Box008|Box001|Take 001|BaseLayer|Box008|Box001|Take 001|
+    7400094: 'JFloor|Box008|Box008|Box004|Take 001|BaseLayer|Box008|Box004|Take '
+    7400096: JFloor|Box008|Box008|Box004|Take 001|BaseLayer|Box008|Box004|Take 001|
+    7400098: 'JFloor|Box008|Box008|Box008|Take 001|BaseLayer|Box008|Box008|Take '
+    7400100: JFloor|Box008|Box008|Box008|Take 001|BaseLayer|Box008|Box008|Take 001|
+    7400102: 'JFloor|Box008|Box008|Box009|Take 001|BaseLayer|Box008|Box009|Take '
+    7400104: JFloor|Box008|Box008|Box009|Take 001|BaseLayer|Box008|Box009|Take 001|
+    7400106: JFloor|Box008|Box008|Line001|Take 001|BaseLayer|Box008|Line001|Tak
+    7400108: JFloor|Box008|Box008|Line001|Take 001|BaseLayer|Box008|Line001|Take 00
+    7400110: JFloor|Box008|Box008|Object001|Take 001|BaseLayer|Box008|Object001
+    7400112: JFloor|Box008|Box008|Object001|Take 001|BaseLayer|Box008|Object001|Tak
+    7400114: JFloor|Box008|Box008|Object003|Take 001|BaseLayer|Box008|Object003
+    7400116: JFloor|Box008|Box008|Object003|Take 001|BaseLayer|Box008|Object003|Tak
+    7400118: 'JFloor|Box009|Box009|Box001|Take 001|BaseLayer|Box009|Box001|Take '
+    7400120: JFloor|Box009|Box009|Box001|Take 001|BaseLayer|Box009|Box001|Take 001|
+    7400122: 'JFloor|Box009|Box009|Box004|Take 001|BaseLayer|Box009|Box004|Take '
+    7400124: JFloor|Box009|Box009|Box004|Take 001|BaseLayer|Box009|Box004|Take 001|
+    7400126: 'JFloor|Box009|Box009|Box008|Take 001|BaseLayer|Box009|Box008|Take '
+    7400128: JFloor|Box009|Box009|Box008|Take 001|BaseLayer|Box009|Box008|Take 001|
+    7400130: 'JFloor|Box009|Box009|Box009|Take 001|BaseLayer|Box009|Box009|Take '
+    7400132: JFloor|Box009|Box009|Box009|Take 001|BaseLayer|Box009|Box009|Take 001|
+    7400134: JFloor|Box009|Box009|Line001|Take 001|BaseLayer|Box009|Line001|Tak
+    7400136: JFloor|Box009|Box009|Line001|Take 001|BaseLayer|Box009|Line001|Take 00
+    7400138: JFloor|Box009|Box009|Object001|Take 001|BaseLayer|Box009|Object001
+    7400140: JFloor|Box009|Box009|Object001|Take 001|BaseLayer|Box009|Object001|Tak
+    7400142: JFloor|Box009|Box009|Object003|Take 001|BaseLayer|Box009|Object003
+    7400144: JFloor|Box009|Box009|Object003|Take 001|BaseLayer|Box009|Object003|Tak
+    7400146: JFloor|column1|column1|Box001|Take 001|BaseLayer|column1|Box001|Take
+      0
+    7400148: JFloor|column1|column1|Box004|Take 001|BaseLayer|column1|Box004|Take
+      0
+    7400150: JFloor|column1|column1|Box008|Take 001|BaseLayer|column1|Box008|Take
+      0
+    7400152: JFloor|column1|column1|Box009|Take 001|BaseLayer|column1|Box009|Take
+      0
+    7400154: JFloor|column1|column1|Line001|Take 001|BaseLayer|column1|Line001|Take
+    7400156: JFloor|column1|column1|Object001|Take 001|BaseLayer|column1|Object001|
+    7400158: JFloor|column1|column1|Object003|Take 001|BaseLayer|column1|Object003|
+    7400160: JFloor|column2|column2|Box001|Take 001|BaseLayer|column2|Box001|Take
+      0
+    7400162: JFloor|column2|column2|Box004|Take 001|BaseLayer|column2|Box004|Take
+      0
+    7400164: JFloor|column2|column2|Box008|Take 001|BaseLayer|column2|Box008|Take
+      0
+    7400166: JFloor|column2|column2|Box009|Take 001|BaseLayer|column2|Box009|Take
+      0
+    7400168: JFloor|column2|column2|Line001|Take 001|BaseLayer|column2|Line001|Take
+    7400170: JFloor|column2|column2|Object001|Take 001|BaseLayer|column2|Object001|
+    7400172: JFloor|column2|column2|Object003|Take 001|BaseLayer|column2|Object003|
+    7400174: JFloor|column3|column3|Box001|Take 001|BaseLayer|column3|Box001|Take
+      0
+    7400176: JFloor|column3|column3|Box004|Take 001|BaseLayer|column3|Box004|Take
+      0
+    7400178: JFloor|column3|column3|Box008|Take 001|BaseLayer|column3|Box008|Take
+      0
+    7400180: JFloor|column3|column3|Box009|Take 001|BaseLayer|column3|Box009|Take
+      0
+    7400182: JFloor|column3|column3|Line001|Take 001|BaseLayer|column3|Line001|Take
+    7400184: JFloor|column3|column3|Object001|Take 001|BaseLayer|column3|Object001|
+    7400186: JFloor|column3|column3|Object003|Take 001|BaseLayer|column3|Object003|
+    7400188: JFloor|column4|column4|Box001|Take 001|BaseLayer|column4|Box001|Take
+      0
+    7400190: JFloor|column4|column4|Box004|Take 001|BaseLayer|column4|Box004|Take
+      0
+    7400192: JFloor|column4|column4|Box008|Take 001|BaseLayer|column4|Box008|Take
+      0
+    7400194: JFloor|column4|column4|Box009|Take 001|BaseLayer|column4|Box009|Take
+      0
+    7400196: JFloor|column4|column4|Line001|Take 001|BaseLayer|column4|Line001|Take
+    7400198: JFloor|column4|column4|Object001|Take 001|BaseLayer|column4|Object001|
+    7400200: JFloor|column4|column4|Object003|Take 001|BaseLayer|column4|Object003|
+    7400202: JFloor|garden floor|garden floor|Box001|Take 001|BaseLayer|garden floo
+    7400204: JFloor|garden floor|garden floor|Box004|Take 001|BaseLayer|garden floo
+    7400206: JFloor|garden floor|garden floor|Box008|Take 001|BaseLayer|garden floo
+    7400208: JFloor|garden floor|garden floor|Box009|Take 001|BaseLayer|garden floo
+    7400210: JFloor|garden floor|garden floor|Line001|Take 001|BaseLayer|garden flo
+    7400212: JFloor|garden floor|garden floor|Object001|Take 001|BaseLayer|garden
+      f
+    7400214: JFloor|garden floor|garden floor|Object003|Take 001|BaseLayer|garden
+      f
+    7400216: JFloor|Line001|Line001|Box001|Take 001|BaseLayer|Line001|Box001|Ta
+    7400218: JFloor|Line001|Line001|Box001|Take 001|BaseLayer|Line001|Box001|Take
+      0
+    7400220: JFloor|Line001|Line001|Box004|Take 001|BaseLayer|Line001|Box004|Ta
+    7400222: JFloor|Line001|Line001|Box004|Take 001|BaseLayer|Line001|Box004|Take
+      0
+    7400224: JFloor|Line001|Line001|Box008|Take 001|BaseLayer|Line001|Box008|Ta
+    7400226: JFloor|Line001|Line001|Box008|Take 001|BaseLayer|Line001|Box008|Take
+      0
+    7400228: JFloor|Line001|Line001|Box009|Take 001|BaseLayer|Line001|Box009|Ta
+    7400230: JFloor|Line001|Line001|Box009|Take 001|BaseLayer|Line001|Box009|Take
+      0
+    7400232: JFloor|Line001|Line001|Line001|Take 001|BaseLayer|Line001|Line001|
+    7400234: JFloor|Line001|Line001|Line001|Take 001|BaseLayer|Line001|Line001|Take
+    7400236: JFloor|Line001|Line001|Object001|Take 001|BaseLayer|Line001|Object
+    7400238: JFloor|Line001|Line001|Object001|Take 001|BaseLayer|Line001|Object001|
+    7400240: JFloor|Line001|Line001|Object003|Take 001|BaseLayer|Line001|Object
+    7400242: JFloor|Line001|Line001|Object003|Take 001|BaseLayer|Line001|Object003|
+    7400244: JFloor|Object001.001|Object001.001|Box001|Take 001|BaseLayer|Object001
+    7400246: JFloor|Object001.001|Object001.001|Box004|Take 001|BaseLayer|Objec
+    7400248: JFloor|Object001.001|Object001.001|Box004|Take 001|BaseLayer|Object001
+    7400250: JFloor|Object001.001|Object001.001|Box008|Take 001|BaseLayer|Objec
+    7400252: JFloor|Object001.001|Object001.001|Box008|Take 001|BaseLayer|Object001
+    7400254: JFloor|Object001.001|Object001.001|Box009|Take 001|BaseLayer|Objec
+    7400256: JFloor|Object001.001|Object001.001|Box009|Take 001|BaseLayer|Object001
+    7400258: JFloor|Object001.001|Object001.001|Line001|Take 001|BaseLayer|Obje
+    7400260: JFloor|Object001.001|Object001.001|Line001|Take 001|BaseLayer|Object00
+    7400262: JFloor|Object001.001|Object001.001|Object001|Take 001|BaseLayer|Ob
+    7400264: JFloor|Object001.001|Object001.001|Object001|Take 001|BaseLayer|Object
+    7400266: JFloor|Object001.001|Object001.001|Object003|Take 001|BaseLayer|Ob
+    7400268: JFloor|Object001.001|Object001.001|Object003|Take 001|BaseLayer|Object
+    7400270: JFloor|Object001|Object001|Box001|Take 001|BaseLayer|Object001|Box001|
+    7400272: JFloor|Object001|Object001|Box004|Take 001|BaseLayer|Object001|Box
+    7400274: JFloor|Object001|Object001|Box004|Take 001|BaseLayer|Object001|Box004|
+    7400276: JFloor|Object001|Object001|Box008|Take 001|BaseLayer|Object001|Box
+    7400278: JFloor|Object001|Object001|Box008|Take 001|BaseLayer|Object001|Box008|
+    7400280: JFloor|Object001|Object001|Box009|Take 001|BaseLayer|Object001|Box
+    7400282: JFloor|Object001|Object001|Box009|Take 001|BaseLayer|Object001|Box009|
+    7400284: JFloor|Object001|Object001|Line001|Take 001|BaseLayer|Object001|Li
+    7400286: JFloor|Object001|Object001|Line001|Take 001|BaseLayer|Object001|Line00
+    7400288: JFloor|Object001|Object001|Object001|Take 001|BaseLayer|Object001|
+    7400290: JFloor|Object001|Object001|Object001|Take 001|BaseLayer|Object001|Obje
+    7400292: JFloor|Object001|Object001|Object003|Take 001|BaseLayer|Object001|
+    7400294: JFloor|Object001|Object001|Object003|Take 001|BaseLayer|Object001|Obje
+    7400296: JFloor|Object003.004|Object003.004|Box001|Take 001|BaseLayer|Object003
+    7400298: JFloor|Object003.004|Object003.004|Box004|Take 001|BaseLayer|Objec
+    7400300: JFloor|Object003.004|Object003.004|Box004|Take 001|BaseLayer|Object003
+    7400302: JFloor|Object003.004|Object003.004|Box008|Take 001|BaseLayer|Objec
+    7400304: JFloor|Object003.004|Object003.004|Box008|Take 001|BaseLayer|Object003
+    7400306: JFloor|Object003.004|Object003.004|Box009|Take 001|BaseLayer|Objec
+    7400308: JFloor|Object003.004|Object003.004|Box009|Take 001|BaseLayer|Object003
+    7400310: JFloor|Object003.004|Object003.004|Line001|Take 001|BaseLayer|Obje
+    7400312: JFloor|Object003.004|Object003.004|Line001|Take 001|BaseLayer|Object00
+    7400314: JFloor|Object003.004|Object003.004|Object001|Take 001|BaseLayer|Ob
+    7400316: JFloor|Object003.004|Object003.004|Object001|Take 001|BaseLayer|Object
+    7400318: JFloor|Object003.004|Object003.004|Object003|Take 001|BaseLayer|Ob
+    7400320: JFloor|Object003.004|Object003.004|Object003|Take 001|BaseLayer|Object
+    7400322: JFloor|Object003.006|Object003.006|Box001|Take 001|BaseLayer|Object003
+    7400324: JFloor|Object003.006|Object003.006|Box004|Take 001|BaseLayer|Objec
+    7400326: JFloor|Object003.006|Object003.006|Box004|Take 001|BaseLayer|Object003
+    7400328: JFloor|Object003.006|Object003.006|Box008|Take 001|BaseLayer|Objec
+    7400330: JFloor|Object003.006|Object003.006|Box008|Take 001|BaseLayer|Object003
+    7400332: JFloor|Object003.006|Object003.006|Box009|Take 001|BaseLayer|Objec
+    7400334: JFloor|Object003.006|Object003.006|Box009|Take 001|BaseLayer|Object003
+    7400336: JFloor|Object003.006|Object003.006|Line001|Take 001|BaseLayer|Obje
+    7400338: JFloor|Object003.006|Object003.006|Line001|Take 001|BaseLayer|Object00
+    7400340: JFloor|Object003.006|Object003.006|Object001|Take 001|BaseLayer|Ob
+    7400342: JFloor|Object003.006|Object003.006|Object001|Take 001|BaseLayer|Object
+    7400344: JFloor|Object003.006|Object003.006|Object003|Take 001|BaseLayer|Ob
+    7400346: JFloor|Object003.006|Object003.006|Object003|Take 001|BaseLayer|Object
+    7400348: JFloor|Object003.010|Object003.010|Box001|Take 001|BaseLayer|Object003
+    7400350: JFloor|Object003.010|Object003.010|Box004|Take 001|BaseLayer|Objec
+    7400352: JFloor|Object003.010|Object003.010|Box004|Take 001|BaseLayer|Object003
+    7400354: JFloor|Object003.010|Object003.010|Box008|Take 001|BaseLayer|Objec
+    7400356: JFloor|Object003.010|Object003.010|Box008|Take 001|BaseLayer|Object003
+    7400358: JFloor|Object003.010|Object003.010|Box009|Take 001|BaseLayer|Objec
+    7400360: JFloor|Object003.010|Object003.010|Box009|Take 001|BaseLayer|Object003
+    7400362: JFloor|Object003.010|Object003.010|Line001|Take 001|BaseLayer|Obje
+    7400364: JFloor|Object003.010|Object003.010|Line001|Take 001|BaseLayer|Object00
+    7400366: JFloor|Object003.010|Object003.010|Object001|Take 001|BaseLayer|Ob
+    7400368: JFloor|Object003.010|Object003.010|Object001|Take 001|BaseLayer|Object
+    7400370: JFloor|Object003.010|Object003.010|Object003|Take 001|BaseLayer|Ob
+    7400372: JFloor|Object003.010|Object003.010|Object003|Take 001|BaseLayer|Object
+    7400374: JFloor|Object003|Object003|Box001|Take 001|BaseLayer|Object003|Box001|
+    7400376: JFloor|Object003|Object003|Box004|Take 001|BaseLayer|Object003|Box
+    7400378: JFloor|Object003|Object003|Box004|Take 001|BaseLayer|Object003|Box004|
+    7400380: JFloor|Object003|Object003|Box008|Take 001|BaseLayer|Object003|Box
+    7400382: JFloor|Object003|Object003|Box008|Take 001|BaseLayer|Object003|Box008|
+    7400384: JFloor|Object003|Object003|Box009|Take 001|BaseLayer|Object003|Box
+    7400386: JFloor|Object003|Object003|Box009|Take 001|BaseLayer|Object003|Box009|
+    7400388: JFloor|Object003|Object003|Line001|Take 001|BaseLayer|Object003|Li
+    7400390: JFloor|Object003|Object003|Line001|Take 001|BaseLayer|Object003|Line00
+    7400392: JFloor|Object003|Object003|Object001|Take 001|BaseLayer|Object003|
+    7400394: JFloor|Object003|Object003|Object001|Take 001|BaseLayer|Object003|Obje
+    7400396: JFloor|Object003|Object003|Object003|Take 001|BaseLayer|Object003|
+    7400398: JFloor|Object003|Object003|Object003|Take 001|BaseLayer|Object003|Obje
+    7400400: JFloor|ringhiera2|ringhiera2|Box001|Take 001|BaseLayer|ringhiera2|Box0
+    7400402: JFloor|ringhiera2|ringhiera2|Box004|Take 001|BaseLayer|ringhiera2|Box0
+    7400404: JFloor|ringhiera2|ringhiera2|Box008|Take 001|BaseLayer|ringhiera2|Box0
+    7400406: JFloor|ringhiera2|ringhiera2|Box009|Take 001|BaseLayer|ringhiera2|Box0
+    7400408: JFloor|ringhiera2|ringhiera2|Line001|Take 001|BaseLayer|ringhiera2|Lin
+    7400410: JFloor|ringhiera2|ringhiera2|Object001|Take 001|BaseLayer|ringhiera2|O
+    7400412: JFloor|ringhiera2|ringhiera2|Object003|Take 001|BaseLayer|ringhiera2|O
+    7400414: JFloor|ringhiera|ringhiera|Box001|Take 001|BaseLayer|ringhiera|Box001|
+    7400416: JFloor|ringhiera|ringhiera|Box004|Take 001|BaseLayer|ringhiera|Box004|
+    7400418: JFloor|ringhiera|ringhiera|Box008|Take 001|BaseLayer|ringhiera|Box008|
+    7400420: JFloor|ringhiera|ringhiera|Box009|Take 001|BaseLayer|ringhiera|Box009|
+    7400422: JFloor|ringhiera|ringhiera|Line001|Take 001|BaseLayer|ringhiera|Line00
+    7400424: JFloor|ringhiera|ringhiera|Object001|Take 001|BaseLayer|ringhiera|Obje
+    7400426: JFloor|ringhiera|ringhiera|Object003|Take 001|BaseLayer|ringhiera|Obje
+    7400428: JFloor|roof|roof|Box001|Take 001|BaseLayer|roof|Box001|Take 001|BaseLa
+    7400430: JFloor|roof|roof|Box004|Take 001|BaseLayer|roof|Box004|Take 001|BaseLa
+    7400432: JFloor|roof|roof|Box008|Take 001|BaseLayer|roof|Box008|Take 001|BaseLa
+    7400434: JFloor|roof|roof|Box009|Take 001|BaseLayer|roof|Box009|Take 001|BaseLa
+    7400436: JFloor|roof|roof|Line001|Take 001|BaseLayer|roof|Line001|Take 001|Base
+    7400438: JFloor|roof|roof|Object001|Take 001|BaseLayer|roof|Object001|Take 001|
+    7400440: JFloor|roof|roof|Object003|Take 001|BaseLayer|roof|Object003|Take 001|
+    7400442: JFloor|wall1|wall1|Box001|Take 001|BaseLayer|wall1|Box001|Take 001|Bas
+    7400444: JFloor|wall1|wall1|Box004|Take 001|BaseLayer|wall1|Box004|Take 001|Bas
+    7400446: JFloor|wall1|wall1|Box008|Take 001|BaseLayer|wall1|Box008|Take 001|Bas
+    7400448: JFloor|wall1|wall1|Box009|Take 001|BaseLayer|wall1|Box009|Take 001|Bas
+    7400450: JFloor|wall1|wall1|Line001|Take 001|BaseLayer|wall1|Line001|Take 001|B
+    7400452: JFloor|wall1|wall1|Object001|Take 001|BaseLayer|wall1|Object001|Take
+      0
+    7400454: JFloor|wall1|wall1|Object003|Take 001|BaseLayer|wall1|Object003|Take
+      0
+    7400456: JFloor|wall2|wall2|Box001|Take 001|BaseLayer|wall2|Box001|Take 001|Bas
+    7400458: JFloor|wall2|wall2|Box004|Take 001|BaseLayer|wall2|Box004|Take 001|Bas
+    7400460: JFloor|wall2|wall2|Box008|Take 001|BaseLayer|wall2|Box008|Take 001|Bas
+    7400462: JFloor|wall2|wall2|Box009|Take 001|BaseLayer|wall2|Box009|Take 001|Bas
+    7400464: JFloor|wall2|wall2|Line001|Take 001|BaseLayer|wall2|Line001|Take 001|B
+    7400466: JFloor|wall2|wall2|Object001|Take 001|BaseLayer|wall2|Object001|Take
+      0
+    7400468: JFloor|wall2|wall2|Object003|Take 001|BaseLayer|wall2|Object003|Take
+      0
+    7400470: ColonnaRossa|basic floor|basic floor|Box001|Take 001|BaseLayer|basic
+      floor|B
+    7400472: ColonnaRossa|basic floor|basic floor|Box004|Take 001|BaseLayer|basic
+      floor|B
+    7400474: ColonnaRossa|basic floor|basic floor|Box008|Take 001|BaseLayer|basic
+      floor|B
+    7400476: ColonnaRossa|basic floor|basic floor|Box009|Take 001|BaseLayer|basic
+      floor|B
+    7400478: ColonnaRossa|basic floor|basic floor|Line001|Take 001|BaseLayer|basic
+      floor|
+    7400480: ColonnaRossa|basic floor|basic floor|Object001|Take 001|BaseLayer|basic
+      floo
+    7400482: ColonnaRossa|basic floor|basic floor|Object003|Take 001|BaseLayer|basic
+      floo
+    7400484: ColonnaRossa|Box001|Box001|Box001|Take 001|BaseLayer|Box001|Box001|Take
+      001|
+    7400486: 'ColonnaRossa|Box001|Box001|Box004|Take 001|BaseLayer|Box001|Box004|Take '
+    7400488: ColonnaRossa|Box001|Box001|Box004|Take 001|BaseLayer|Box001|Box004|Take
+      001|
+    7400490: 'ColonnaRossa|Box001|Box001|Box008|Take 001|BaseLayer|Box001|Box008|Take '
+    7400492: ColonnaRossa|Box001|Box001|Box008|Take 001|BaseLayer|Box001|Box008|Take
+      001|
+    7400494: 'ColonnaRossa|Box001|Box001|Box009|Take 001|BaseLayer|Box001|Box009|Take '
+    7400496: ColonnaRossa|Box001|Box001|Box009|Take 001|BaseLayer|Box001|Box009|Take
+      001|
+    7400498: ColonnaRossa|Box001|Box001|Line001|Take 001|BaseLayer|Box001|Line001|Tak
+    7400500: ColonnaRossa|Box001|Box001|Line001|Take 001|BaseLayer|Box001|Line001|Take
+      00
+    7400502: ColonnaRossa|Box001|Box001|Object001|Take 001|BaseLayer|Box001|Object001
+    7400504: ColonnaRossa|Box001|Box001|Object001|Take 001|BaseLayer|Box001|Object001|Tak
+    7400506: ColonnaRossa|Box001|Box001|Object003|Take 001|BaseLayer|Box001|Object003
+    7400508: ColonnaRossa|Box001|Box001|Object003|Take 001|BaseLayer|Box001|Object003|Tak
+    7400510: ColonnaRossa|Box004|Box004|Box001|Take 001|BaseLayer|Box004|Box001|Take
+      001|
+    7400512: 'ColonnaRossa|Box004|Box004|Box004|Take 001|BaseLayer|Box004|Box004|Take '
+    7400514: ColonnaRossa|Box004|Box004|Box004|Take 001|BaseLayer|Box004|Box004|Take
+      001|
+    7400516: 'ColonnaRossa|Box004|Box004|Box008|Take 001|BaseLayer|Box004|Box008|Take '
+    7400518: ColonnaRossa|Box004|Box004|Box008|Take 001|BaseLayer|Box004|Box008|Take
+      001|
+    7400520: 'ColonnaRossa|Box004|Box004|Box009|Take 001|BaseLayer|Box004|Box009|Take '
+    7400522: ColonnaRossa|Box004|Box004|Box009|Take 001|BaseLayer|Box004|Box009|Take
+      001|
+    7400524: ColonnaRossa|Box004|Box004|Line001|Take 001|BaseLayer|Box004|Line001|Tak
+    7400526: ColonnaRossa|Box004|Box004|Line001|Take 001|BaseLayer|Box004|Line001|Take
+      00
+    7400528: ColonnaRossa|Box004|Box004|Object001|Take 001|BaseLayer|Box004|Object001
+    7400530: ColonnaRossa|Box004|Box004|Object001|Take 001|BaseLayer|Box004|Object001|Tak
+    7400532: ColonnaRossa|Box004|Box004|Object003|Take 001|BaseLayer|Box004|Object003
+    7400534: ColonnaRossa|Box004|Box004|Object003|Take 001|BaseLayer|Box004|Object003|Tak
+    7400536: ColonnaRossa|Box008.001|Box008.001|Box001|Take 001|BaseLayer|Box008.001|Box0
+    7400538: ColonnaRossa|Box008.001|Box008.001|Box004|Take 001|BaseLayer|Box008.001|
+    7400540: ColonnaRossa|Box008.001|Box008.001|Box004|Take 001|BaseLayer|Box008.001|Box0
+    7400542: ColonnaRossa|Box008.001|Box008.001|Box008|Take 001|BaseLayer|Box008.001|
+    7400544: ColonnaRossa|Box008.001|Box008.001|Box008|Take 001|BaseLayer|Box008.001|Box0
+    7400546: ColonnaRossa|Box008.001|Box008.001|Box009|Take 001|BaseLayer|Box008.001|
+    7400548: ColonnaRossa|Box008.001|Box008.001|Box009|Take 001|BaseLayer|Box008.001|Box0
+    7400550: ColonnaRossa|Box008.001|Box008.001|Line001|Take 001|BaseLayer|Box008.001
+    7400552: ColonnaRossa|Box008.001|Box008.001|Line001|Take 001|BaseLayer|Box008.001|Lin
+    7400554: ColonnaRossa|Box008.001|Box008.001|Object001|Take 001|BaseLayer|Box008.0
+    7400556: ColonnaRossa|Box008.001|Box008.001|Object001|Take 001|BaseLayer|Box008.001|O
+    7400558: ColonnaRossa|Box008.001|Box008.001|Object003|Take 001|BaseLayer|Box008.0
+    7400560: ColonnaRossa|Box008.001|Box008.001|Object003|Take 001|BaseLayer|Box008.001|O
+    7400562: ColonnaRossa|Box008|Box008|Box001|Take 001|BaseLayer|Box008|Box001|Take
+      001|
+    7400564: 'ColonnaRossa|Box008|Box008|Box004|Take 001|BaseLayer|Box008|Box004|Take '
+    7400566: ColonnaRossa|Box008|Box008|Box004|Take 001|BaseLayer|Box008|Box004|Take
+      001|
+    7400568: 'ColonnaRossa|Box008|Box008|Box008|Take 001|BaseLayer|Box008|Box008|Take '
+    7400570: ColonnaRossa|Box008|Box008|Box008|Take 001|BaseLayer|Box008|Box008|Take
+      001|
+    7400572: 'ColonnaRossa|Box008|Box008|Box009|Take 001|BaseLayer|Box008|Box009|Take '
+    7400574: ColonnaRossa|Box008|Box008|Box009|Take 001|BaseLayer|Box008|Box009|Take
+      001|
+    7400576: ColonnaRossa|Box008|Box008|Line001|Take 001|BaseLayer|Box008|Line001|Tak
+    7400578: ColonnaRossa|Box008|Box008|Line001|Take 001|BaseLayer|Box008|Line001|Take
+      00
+    7400580: ColonnaRossa|Box008|Box008|Object001|Take 001|BaseLayer|Box008|Object001
+    7400582: ColonnaRossa|Box008|Box008|Object001|Take 001|BaseLayer|Box008|Object001|Tak
+    7400584: ColonnaRossa|Box008|Box008|Object003|Take 001|BaseLayer|Box008|Object003
+    7400586: ColonnaRossa|Box008|Box008|Object003|Take 001|BaseLayer|Box008|Object003|Tak
+    7400588: 'ColonnaRossa|Box009|Box009|Box001|Take 001|BaseLayer|Box009|Box001|Take '
+    7400590: ColonnaRossa|Box009|Box009|Box001|Take 001|BaseLayer|Box009|Box001|Take
+      001|
+    7400592: 'ColonnaRossa|Box009|Box009|Box004|Take 001|BaseLayer|Box009|Box004|Take '
+    7400594: ColonnaRossa|Box009|Box009|Box004|Take 001|BaseLayer|Box009|Box004|Take
+      001|
+    7400596: 'ColonnaRossa|Box009|Box009|Box008|Take 001|BaseLayer|Box009|Box008|Take '
+    7400598: ColonnaRossa|Box009|Box009|Box008|Take 001|BaseLayer|Box009|Box008|Take
+      001|
+    7400600: 'ColonnaRossa|Box009|Box009|Box009|Take 001|BaseLayer|Box009|Box009|Take '
+    7400602: ColonnaRossa|Box009|Box009|Box009|Take 001|BaseLayer|Box009|Box009|Take
+      001|
+    7400604: ColonnaRossa|Box009|Box009|Line001|Take 001|BaseLayer|Box009|Line001|Tak
+    7400606: ColonnaRossa|Box009|Box009|Line001|Take 001|BaseLayer|Box009|Line001|Take
+      00
+    7400608: ColonnaRossa|Box009|Box009|Object001|Take 001|BaseLayer|Box009|Object001
+    7400610: ColonnaRossa|Box009|Box009|Object001|Take 001|BaseLayer|Box009|Object001|Tak
+    7400612: ColonnaRossa|Box009|Box009|Object003|Take 001|BaseLayer|Box009|Object003
+    7400614: ColonnaRossa|Box009|Box009|Object003|Take 001|BaseLayer|Box009|Object003|Tak
+    7400616: ColonnaRossa|column1|column1|Box001|Take 001|BaseLayer|column1|Box001|Take
+      0
+    7400618: ColonnaRossa|column1|column1|Box004|Take 001|BaseLayer|column1|Box004|Take
+      0
+    7400620: ColonnaRossa|column1|column1|Box008|Take 001|BaseLayer|column1|Box008|Take
+      0
+    7400622: ColonnaRossa|column1|column1|Box009|Take 001|BaseLayer|column1|Box009|Take
+      0
+    7400624: ColonnaRossa|column1|column1|Line001|Take 001|BaseLayer|column1|Line001|Take
+    7400626: ColonnaRossa|column1|column1|Object001|Take 001|BaseLayer|column1|Object001|
+    7400628: ColonnaRossa|column1|column1|Object003|Take 001|BaseLayer|column1|Object003|
+    7400630: ColonnaRossa|column2|column2|Box001|Take 001|BaseLayer|column2|Box001|Take
+      0
+    7400632: ColonnaRossa|column2|column2|Box004|Take 001|BaseLayer|column2|Box004|Take
+      0
+    7400634: ColonnaRossa|column2|column2|Box008|Take 001|BaseLayer|column2|Box008|Take
+      0
+    7400636: ColonnaRossa|column2|column2|Box009|Take 001|BaseLayer|column2|Box009|Take
+      0
+    7400638: ColonnaRossa|column2|column2|Line001|Take 001|BaseLayer|column2|Line001|Take
+    7400640: ColonnaRossa|column2|column2|Object001|Take 001|BaseLayer|column2|Object001|
+    7400642: ColonnaRossa|column2|column2|Object003|Take 001|BaseLayer|column2|Object003|
+    7400644: ColonnaRossa|column3|column3|Box001|Take 001|BaseLayer|column3|Box001|Take
+      0
+    7400646: ColonnaRossa|column3|column3|Box004|Take 001|BaseLayer|column3|Box004|Take
+      0
+    7400648: ColonnaRossa|column3|column3|Box008|Take 001|BaseLayer|column3|Box008|Take
+      0
+    7400650: ColonnaRossa|column3|column3|Box009|Take 001|BaseLayer|column3|Box009|Take
+      0
+    7400652: ColonnaRossa|column3|column3|Line001|Take 001|BaseLayer|column3|Line001|Take
+    7400654: ColonnaRossa|column3|column3|Object001|Take 001|BaseLayer|column3|Object001|
+    7400656: ColonnaRossa|column3|column3|Object003|Take 001|BaseLayer|column3|Object003|
+    7400658: ColonnaRossa|column4|column4|Box001|Take 001|BaseLayer|column4|Box001|Take
+      0
+    7400660: ColonnaRossa|column4|column4|Box004|Take 001|BaseLayer|column4|Box004|Take
+      0
+    7400662: ColonnaRossa|column4|column4|Box008|Take 001|BaseLayer|column4|Box008|Take
+      0
+    7400664: ColonnaRossa|column4|column4|Box009|Take 001|BaseLayer|column4|Box009|Take
+      0
+    7400666: ColonnaRossa|column4|column4|Line001|Take 001|BaseLayer|column4|Line001|Take
+    7400668: ColonnaRossa|column4|column4|Object001|Take 001|BaseLayer|column4|Object001|
+    7400670: ColonnaRossa|column4|column4|Object003|Take 001|BaseLayer|column4|Object003|
+    7400672: ColonnaRossa|garden floor|garden floor|Box001|Take 001|BaseLayer|garden
+      floo
+    7400674: ColonnaRossa|garden floor|garden floor|Box004|Take 001|BaseLayer|garden
+      floo
+    7400676: ColonnaRossa|garden floor|garden floor|Box008|Take 001|BaseLayer|garden
+      floo
+    7400678: ColonnaRossa|garden floor|garden floor|Box009|Take 001|BaseLayer|garden
+      floo
+    7400680: ColonnaRossa|garden floor|garden floor|Line001|Take 001|BaseLayer|garden
+      flo
+    7400682: ColonnaRossa|garden floor|garden floor|Object001|Take 001|BaseLayer|garden
+      f
+    7400684: ColonnaRossa|garden floor|garden floor|Object003|Take 001|BaseLayer|garden
+      f
+    7400686: ColonnaRossa|Line001|Line001|Box001|Take 001|BaseLayer|Line001|Box001|Ta
+    7400688: ColonnaRossa|Line001|Line001|Box001|Take 001|BaseLayer|Line001|Box001|Take
+      0
+    7400690: ColonnaRossa|Line001|Line001|Box004|Take 001|BaseLayer|Line001|Box004|Ta
+    7400692: ColonnaRossa|Line001|Line001|Box004|Take 001|BaseLayer|Line001|Box004|Take
+      0
+    7400694: ColonnaRossa|Line001|Line001|Box008|Take 001|BaseLayer|Line001|Box008|Ta
+    7400696: ColonnaRossa|Line001|Line001|Box008|Take 001|BaseLayer|Line001|Box008|Take
+      0
+    7400698: ColonnaRossa|Line001|Line001|Box009|Take 001|BaseLayer|Line001|Box009|Ta
+    7400700: ColonnaRossa|Line001|Line001|Box009|Take 001|BaseLayer|Line001|Box009|Take
+      0
+    7400702: ColonnaRossa|Line001|Line001|Line001|Take 001|BaseLayer|Line001|Line001|
+    7400704: ColonnaRossa|Line001|Line001|Line001|Take 001|BaseLayer|Line001|Line001|Take
+    7400706: ColonnaRossa|Line001|Line001|Object001|Take 001|BaseLayer|Line001|Object
+    7400708: ColonnaRossa|Line001|Line001|Object001|Take 001|BaseLayer|Line001|Object001|
+    7400710: ColonnaRossa|Line001|Line001|Object003|Take 001|BaseLayer|Line001|Object
+    7400712: ColonnaRossa|Line001|Line001|Object003|Take 001|BaseLayer|Line001|Object003|
+    7400714: ColonnaRossa|Object001.001|Object001.001|Box001|Take 001|BaseLayer|Object001
+    7400716: ColonnaRossa|Object001.001|Object001.001|Box004|Take 001|BaseLayer|Objec
+    7400718: ColonnaRossa|Object001.001|Object001.001|Box004|Take 001|BaseLayer|Object001
+    7400720: ColonnaRossa|Object001.001|Object001.001|Box008|Take 001|BaseLayer|Objec
+    7400722: ColonnaRossa|Object001.001|Object001.001|Box008|Take 001|BaseLayer|Object001
+    7400724: ColonnaRossa|Object001.001|Object001.001|Box009|Take 001|BaseLayer|Objec
+    7400726: ColonnaRossa|Object001.001|Object001.001|Box009|Take 001|BaseLayer|Object001
+    7400728: ColonnaRossa|Object001.001|Object001.001|Line001|Take 001|BaseLayer|Obje
+    7400730: ColonnaRossa|Object001.001|Object001.001|Line001|Take 001|BaseLayer|Object00
+    7400732: ColonnaRossa|Object001.001|Object001.001|Object001|Take 001|BaseLayer|Ob
+    7400734: ColonnaRossa|Object001.001|Object001.001|Object001|Take 001|BaseLayer|Object
+    7400736: ColonnaRossa|Object001.001|Object001.001|Object003|Take 001|BaseLayer|Ob
+    7400738: ColonnaRossa|Object001.001|Object001.001|Object003|Take 001|BaseLayer|Object
+    7400740: ColonnaRossa|Object001|Object001|Box001|Take 001|BaseLayer|Object001|Box001|
+    7400742: ColonnaRossa|Object001|Object001|Box004|Take 001|BaseLayer|Object001|Box
+    7400744: ColonnaRossa|Object001|Object001|Box004|Take 001|BaseLayer|Object001|Box004|
+    7400746: ColonnaRossa|Object001|Object001|Box008|Take 001|BaseLayer|Object001|Box
+    7400748: ColonnaRossa|Object001|Object001|Box008|Take 001|BaseLayer|Object001|Box008|
+    7400750: ColonnaRossa|Object001|Object001|Box009|Take 001|BaseLayer|Object001|Box
+    7400752: ColonnaRossa|Object001|Object001|Box009|Take 001|BaseLayer|Object001|Box009|
+    7400754: ColonnaRossa|Object001|Object001|Line001|Take 001|BaseLayer|Object001|Li
+    7400756: ColonnaRossa|Object001|Object001|Line001|Take 001|BaseLayer|Object001|Line00
+    7400758: ColonnaRossa|Object001|Object001|Object001|Take 001|BaseLayer|Object001|
+    7400760: ColonnaRossa|Object001|Object001|Object001|Take 001|BaseLayer|Object001|Obje
+    7400762: ColonnaRossa|Object001|Object001|Object003|Take 001|BaseLayer|Object001|
+    7400764: ColonnaRossa|Object001|Object001|Object003|Take 001|BaseLayer|Object001|Obje
+    7400766: ColonnaRossa|Object003.004|Object003.004|Box001|Take 001|BaseLayer|Object003
+    7400768: ColonnaRossa|Object003.004|Object003.004|Box004|Take 001|BaseLayer|Objec
+    7400770: ColonnaRossa|Object003.004|Object003.004|Box004|Take 001|BaseLayer|Object003
+    7400772: ColonnaRossa|Object003.004|Object003.004|Box008|Take 001|BaseLayer|Objec
+    7400774: ColonnaRossa|Object003.004|Object003.004|Box008|Take 001|BaseLayer|Object003
+    7400776: ColonnaRossa|Object003.004|Object003.004|Box009|Take 001|BaseLayer|Objec
+    7400778: ColonnaRossa|Object003.004|Object003.004|Box009|Take 001|BaseLayer|Object003
+    7400780: ColonnaRossa|Object003.004|Object003.004|Line001|Take 001|BaseLayer|Obje
+    7400782: ColonnaRossa|Object003.004|Object003.004|Line001|Take 001|BaseLayer|Object00
+    7400784: ColonnaRossa|Object003.004|Object003.004|Object001|Take 001|BaseLayer|Ob
+    7400786: ColonnaRossa|Object003.004|Object003.004|Object001|Take 001|BaseLayer|Object
+    7400788: ColonnaRossa|Object003.004|Object003.004|Object003|Take 001|BaseLayer|Ob
+    7400790: ColonnaRossa|Object003.004|Object003.004|Object003|Take 001|BaseLayer|Object
+    7400792: ColonnaRossa|Object003.006|Object003.006|Box001|Take 001|BaseLayer|Object003
+    7400794: ColonnaRossa|Object003.006|Object003.006|Box004|Take 001|BaseLayer|Objec
+    7400796: ColonnaRossa|Object003.006|Object003.006|Box004|Take 001|BaseLayer|Object003
+    7400798: ColonnaRossa|Object003.006|Object003.006|Box008|Take 001|BaseLayer|Objec
+    7400800: ColonnaRossa|Object003.006|Object003.006|Box008|Take 001|BaseLayer|Object003
+    7400802: ColonnaRossa|Object003.006|Object003.006|Box009|Take 001|BaseLayer|Objec
+    7400804: ColonnaRossa|Object003.006|Object003.006|Box009|Take 001|BaseLayer|Object003
+    7400806: ColonnaRossa|Object003.006|Object003.006|Line001|Take 001|BaseLayer|Obje
+    7400808: ColonnaRossa|Object003.006|Object003.006|Line001|Take 001|BaseLayer|Object00
+    7400810: ColonnaRossa|Object003.006|Object003.006|Object001|Take 001|BaseLayer|Ob
+    7400812: ColonnaRossa|Object003.006|Object003.006|Object001|Take 001|BaseLayer|Object
+    7400814: ColonnaRossa|Object003.006|Object003.006|Object003|Take 001|BaseLayer|Ob
+    7400816: ColonnaRossa|Object003.006|Object003.006|Object003|Take 001|BaseLayer|Object
+    7400818: ColonnaRossa|Object003.010|Object003.010|Box001|Take 001|BaseLayer|Object003
+    7400820: ColonnaRossa|Object003.010|Object003.010|Box004|Take 001|BaseLayer|Objec
+    7400822: ColonnaRossa|Object003.010|Object003.010|Box004|Take 001|BaseLayer|Object003
+    7400824: ColonnaRossa|Object003.010|Object003.010|Box008|Take 001|BaseLayer|Objec
+    7400826: ColonnaRossa|Object003.010|Object003.010|Box008|Take 001|BaseLayer|Object003
+    7400828: ColonnaRossa|Object003.010|Object003.010|Box009|Take 001|BaseLayer|Objec
+    7400830: ColonnaRossa|Object003.010|Object003.010|Box009|Take 001|BaseLayer|Object003
+    7400832: ColonnaRossa|Object003.010|Object003.010|Line001|Take 001|BaseLayer|Obje
+    7400834: ColonnaRossa|Object003.010|Object003.010|Line001|Take 001|BaseLayer|Object00
+    7400836: ColonnaRossa|Object003.010|Object003.010|Object001|Take 001|BaseLayer|Ob
+    7400838: ColonnaRossa|Object003.010|Object003.010|Object001|Take 001|BaseLayer|Object
+    7400840: ColonnaRossa|Object003.010|Object003.010|Object003|Take 001|BaseLayer|Ob
+    7400842: ColonnaRossa|Object003.010|Object003.010|Object003|Take 001|BaseLayer|Object
+    7400844: ColonnaRossa|Object003|Object003|Box001|Take 001|BaseLayer|Object003|Box001|
+    7400846: ColonnaRossa|Object003|Object003|Box004|Take 001|BaseLayer|Object003|Box
+    7400848: ColonnaRossa|Object003|Object003|Box004|Take 001|BaseLayer|Object003|Box004|
+    7400850: ColonnaRossa|Object003|Object003|Box008|Take 001|BaseLayer|Object003|Box
+    7400852: ColonnaRossa|Object003|Object003|Box008|Take 001|BaseLayer|Object003|Box008|
+    7400854: ColonnaRossa|Object003|Object003|Box009|Take 001|BaseLayer|Object003|Box
+    7400856: ColonnaRossa|Object003|Object003|Box009|Take 001|BaseLayer|Object003|Box009|
+    7400858: ColonnaRossa|Object003|Object003|Line001|Take 001|BaseLayer|Object003|Li
+    7400860: ColonnaRossa|Object003|Object003|Line001|Take 001|BaseLayer|Object003|Line00
+    7400862: ColonnaRossa|Object003|Object003|Object001|Take 001|BaseLayer|Object003|
+    7400864: ColonnaRossa|Object003|Object003|Object001|Take 001|BaseLayer|Object003|Obje
+    7400866: ColonnaRossa|Object003|Object003|Object003|Take 001|BaseLayer|Object003|
+    7400868: ColonnaRossa|Object003|Object003|Object003|Take 001|BaseLayer|Object003|Obje
+    7400870: ColonnaRossa|ringhiera2|ringhiera2|Box001|Take 001|BaseLayer|ringhiera2|Box0
+    7400872: ColonnaRossa|ringhiera2|ringhiera2|Box004|Take 001|BaseLayer|ringhiera2|Box0
+    7400874: ColonnaRossa|ringhiera2|ringhiera2|Box008|Take 001|BaseLayer|ringhiera2|Box0
+    7400876: ColonnaRossa|ringhiera2|ringhiera2|Box009|Take 001|BaseLayer|ringhiera2|Box0
+    7400878: ColonnaRossa|ringhiera2|ringhiera2|Line001|Take 001|BaseLayer|ringhiera2|Lin
+    7400880: ColonnaRossa|ringhiera2|ringhiera2|Object001|Take 001|BaseLayer|ringhiera2|O
+    7400882: ColonnaRossa|ringhiera2|ringhiera2|Object003|Take 001|BaseLayer|ringhiera2|O
+    7400884: ColonnaRossa|ringhiera|ringhiera|Box001|Take 001|BaseLayer|ringhiera|Box001|
+    7400886: ColonnaRossa|ringhiera|ringhiera|Box004|Take 001|BaseLayer|ringhiera|Box004|
+    7400888: ColonnaRossa|ringhiera|ringhiera|Box008|Take 001|BaseLayer|ringhiera|Box008|
+    7400890: ColonnaRossa|ringhiera|ringhiera|Box009|Take 001|BaseLayer|ringhiera|Box009|
+    7400892: ColonnaRossa|ringhiera|ringhiera|Line001|Take 001|BaseLayer|ringhiera|Line00
+    7400894: ColonnaRossa|ringhiera|ringhiera|Object001|Take 001|BaseLayer|ringhiera|Obje
+    7400896: ColonnaRossa|ringhiera|ringhiera|Object003|Take 001|BaseLayer|ringhiera|Obje
+    7400898: ColonnaRossa|roof|roof|Box001|Take 001|BaseLayer|roof|Box001|Take 001|BaseLa
+    7400900: ColonnaRossa|roof|roof|Box004|Take 001|BaseLayer|roof|Box004|Take 001|BaseLa
+    7400902: ColonnaRossa|roof|roof|Box008|Take 001|BaseLayer|roof|Box008|Take 001|BaseLa
+    7400904: ColonnaRossa|roof|roof|Box009|Take 001|BaseLayer|roof|Box009|Take 001|BaseLa
+    7400906: ColonnaRossa|roof|roof|Line001|Take 001|BaseLayer|roof|Line001|Take 001|Base
+    7400908: ColonnaRossa|roof|roof|Object001|Take 001|BaseLayer|roof|Object001|Take
+      001|
+    7400910: ColonnaRossa|roof|roof|Object003|Take 001|BaseLayer|roof|Object003|Take
+      001|
+    7400912: ColonnaRossa|wall1|wall1|Box001|Take 001|BaseLayer|wall1|Box001|Take
+      001|Bas
+    7400914: ColonnaRossa|wall1|wall1|Box004|Take 001|BaseLayer|wall1|Box004|Take
+      001|Bas
+    7400916: ColonnaRossa|wall1|wall1|Box008|Take 001|BaseLayer|wall1|Box008|Take
+      001|Bas
+    7400918: ColonnaRossa|wall1|wall1|Box009|Take 001|BaseLayer|wall1|Box009|Take
+      001|Bas
+    7400920: ColonnaRossa|wall1|wall1|Line001|Take 001|BaseLayer|wall1|Line001|Take
+      001|B
+    7400922: ColonnaRossa|wall1|wall1|Object001|Take 001|BaseLayer|wall1|Object001|Take
+      0
+    7400924: ColonnaRossa|wall1|wall1|Object003|Take 001|BaseLayer|wall1|Object003|Take
+      0
+    7400926: ColonnaRossa|wall2|wall2|Box001|Take 001|BaseLayer|wall2|Box001|Take
+      001|Bas
+    7400928: ColonnaRossa|wall2|wall2|Box004|Take 001|BaseLayer|wall2|Box004|Take
+      001|Bas
+    7400930: ColonnaRossa|wall2|wall2|Box008|Take 001|BaseLayer|wall2|Box008|Take
+      001|Bas
+    7400932: ColonnaRossa|wall2|wall2|Box009|Take 001|BaseLayer|wall2|Box009|Take
+      001|Bas
+    7400934: ColonnaRossa|wall2|wall2|Line001|Take 001|BaseLayer|wall2|Line001|Take
+      001|B
+    7400936: ColonnaRossa|wall2|wall2|Object001|Take 001|BaseLayer|wall2|Object001|Take
+      0
+    7400938: ColonnaRossa|wall2|wall2|Object003|Take 001|BaseLayer|wall2|Object003|Take
+      0
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JFloor
+    second: {fileID: 2100000, guid: 0253dc8b32c4ff745b04c9678c4a91b2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

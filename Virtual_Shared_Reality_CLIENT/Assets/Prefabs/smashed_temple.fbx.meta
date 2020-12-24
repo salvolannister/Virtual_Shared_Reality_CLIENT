@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 10a026d0e52b7714d90953ca0e821109
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box004
+    100004: Box008
+    100006: Box008.001
+    100008: Box009
+    100010: Line001
+    100012: Object001
+    100014: Object001.001
+    100016: Object003
+    100018: Object003.004
+    100020: Object003.006
+    100022: Object003.010
+    100024: //RootNode
+    400000: Box001
+    400002: Box004
+    400004: Box008
+    400006: Box008.001
+    400008: Box009
+    400010: Line001
+    400012: Object001
+    400014: Object001.001
+    400016: Object003
+    400018: Object003.004
+    400020: Object003.006
+    400022: Object003.010
+    400024: //RootNode
+    2100000: base
+    2100002: 'Material #40'
+    2100004: 'Material #38'
+    2100006: top
+    2300000: Box001
+    2300002: Box004
+    2300004: Box008
+    2300006: Box008.001
+    2300008: Box009
+    2300010: Object001
+    2300012: Object001.001
+    2300014: Object003
+    2300016: Object003.004
+    2300018: Object003.006
+    2300020: Object003.010
+    3300000: Box001
+    3300002: Box004
+    3300004: Box008
+    3300006: Box008.001
+    3300008: Box009
+    3300010: Object001
+    3300012: Object001.001
+    3300014: Object003
+    3300016: Object003.004
+    3300018: Object003.006
+    3300020: Object003.010
+    4300000: Box001
+    4300002: Object001
+    4300004: Object003
+    4300006: Box009
+    4300008: Box004
+    4300010: Box008
+    4300012: Object003.004
+    4300014: Object003.006
+    4300016: Object003.010
+    4300018: Object001.001
+    4300020: Box008.001
+    7400000: Box001|Box001|Take 001|BaseLayer
+    7400002: Box001|Box004|Take 001|BaseLayer
+    7400004: Box001|Box008|Take 001|BaseLayer
+    7400006: Box001|Box009|Take 001|BaseLayer
+    7400008: Box001|Line001|Take 001|BaseLayer
+    7400010: Box001|Object001|Take 001|BaseLayer
+    7400012: Box001|Object003|Take 001|BaseLayer
+    7400014: Object001|Box001|Take 001|BaseLayer
+    7400016: Object001|Box004|Take 001|BaseLayer
+    7400018: Object001|Box008|Take 001|BaseLayer
+    7400020: Object001|Box009|Take 001|BaseLayer
+    7400022: Object001|Line001|Take 001|BaseLayer
+    7400024: Object001|Object001|Take 001|BaseLayer
+    7400026: Object001|Object003|Take 001|BaseLayer
+    7400028: Object003|Box001|Take 001|BaseLayer
+    7400030: Object003|Box004|Take 001|BaseLayer
+    7400032: Object003|Box008|Take 001|BaseLayer
+    7400034: Object003|Box009|Take 001|BaseLayer
+    7400036: Object003|Line001|Take 001|BaseLayer
+    7400038: Object003|Object001|Take 001|BaseLayer
+    7400040: Object003|Object003|Take 001|BaseLayer
+    7400042: Box009|Box001|Take 001|BaseLayer
+    7400044: Box009|Box004|Take 001|BaseLayer
+    7400046: Box009|Box008|Take 001|BaseLayer
+    7400048: Box009|Box009|Take 001|BaseLayer
+    7400050: Box009|Line001|Take 001|BaseLayer
+    7400052: Box009|Object001|Take 001|BaseLayer
+    7400054: Box009|Object003|Take 001|BaseLayer
+    7400056: Box004|Box001|Take 001|BaseLayer
+    7400058: Box004|Box004|Take 001|BaseLayer
+    7400060: Box004|Box008|Take 001|BaseLayer
+    7400062: Box004|Box009|Take 001|BaseLayer
+    7400064: Box004|Line001|Take 001|BaseLayer
+    7400066: Box004|Object001|Take 001|BaseLayer
+    7400068: Box004|Object003|Take 001|BaseLayer
+    7400070: Box008|Box001|Take 001|BaseLayer
+    7400072: Box008|Box004|Take 001|BaseLayer
+    7400074: Box008|Box008|Take 001|BaseLayer
+    7400076: Box008|Box009|Take 001|BaseLayer
+    7400078: Box008|Line001|Take 001|BaseLayer
+    7400080: Box008|Object001|Take 001|BaseLayer
+    7400082: Box008|Object003|Take 001|BaseLayer
+    7400084: Line001|Box001|Take 001|BaseLayer
+    7400086: Line001|Box004|Take 001|BaseLayer
+    7400088: Line001|Box008|Take 001|BaseLayer
+    7400090: Line001|Box009|Take 001|BaseLayer
+    7400092: Line001|Line001|Take 001|BaseLayer
+    7400094: Line001|Object001|Take 001|BaseLayer
+    7400096: Line001|Object003|Take 001|BaseLayer
+    7400098: Object003.004|Box001|Take 001|BaseLayer
+    7400100: Object003.004|Box004|Take 001|BaseLayer
+    7400102: Object003.004|Box008|Take 001|BaseLayer
+    7400104: Object003.004|Box009|Take 001|BaseLayer
+    7400106: Object003.004|Line001|Take 001|BaseLayer
+    7400108: Object003.004|Object001|Take 001|BaseLayer
+    7400110: Object003.004|Object003|Take 001|BaseLayer
+    7400112: Object003.006|Box001|Take 001|BaseLayer
+    7400114: Object003.006|Box004|Take 001|BaseLayer
+    7400116: Object003.006|Box008|Take 001|BaseLayer
+    7400118: Object003.006|Box009|Take 001|BaseLayer
+    7400120: Object003.006|Line001|Take 001|BaseLayer
+    7400122: Object003.006|Object001|Take 001|BaseLayer
+    7400124: Object003.006|Object003|Take 001|BaseLayer
+    7400126: Object003.010|Box001|Take 001|BaseLayer
+    7400128: Object003.010|Box004|Take 001|BaseLayer
+    7400130: Object003.010|Box008|Take 001|BaseLayer
+    7400132: Object003.010|Box009|Take 001|BaseLayer
+    7400134: Object003.010|Line001|Take 001|BaseLayer
+    7400136: Object003.010|Object001|Take 001|BaseLayer
+    7400138: Object003.010|Object003|Take 001|BaseLayer
+    7400140: Object001.001|Box001|Take 001|BaseLayer
+    7400142: Object001.001|Box004|Take 001|BaseLayer
+    7400144: Object001.001|Box008|Take 001|BaseLayer
+    7400146: Object001.001|Box009|Take 001|BaseLayer
+    7400148: Object001.001|Line001|Take 001|BaseLayer
+    7400150: Object001.001|Object001|Take 001|BaseLayer
+    7400152: Object001.001|Object003|Take 001|BaseLayer
+    7400154: Box008.001|Box001|Take 001|BaseLayer
+    7400156: Box008.001|Box004|Take 001|BaseLayer
+    7400158: Box008.001|Box008|Take 001|BaseLayer
+    7400160: Box008.001|Box009|Take 001|BaseLayer
+    7400162: Box008.001|Line001|Take 001|BaseLayer
+    7400164: Box008.001|Object001|Take 001|BaseLayer
+    7400166: Box008.001|Object003|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
