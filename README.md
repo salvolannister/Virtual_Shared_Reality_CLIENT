@@ -1,5 +1,5 @@
 # Virtual Shared Reality CLIENT
-![Image of the shared environment from AR](Images/FirstLevel_AR.png ==24x48){:height="50px" width="50px"}
+![Image of the shared environment from AR](Images/FirstLevel_AR.png =24x48)
 ![Image of the shared environment from VR ](Images/FirstLevel_VR.PNG.jpg)
 ![Image of the two users working together](Images/SharedViewFromTablet.jpg)
 
