@@ -1,11 +1,14 @@
 # Virtual Shared Reality CLIENT
 
+<img src="https://raw.githubusercontent.com/salvolannister/Virtual_Shared_Reality_CLIENT/main/Images/VrThesisOptimized.gif" height="290" value="Image showing two players using the application">
 
 This repository contains the application XListener created with unity 2018.8.8f1 for my master thesis in Computer Graphics developed in PucRio TecGraph and Politecnico of Turin, it enables a multiplayer experience between a user with a virtual reality headset (HTC Vive pro, oculus quest or rift) and a tablet/cellphone user.
 
 <img src="https://raw.githubusercontent.com/salvolannister/Virtual_Shared_Reality_CLIENT/main/Images/FirstLevel_AR.png" height="290" value="Image of the shared environment from AR"><img src="https://raw.githubusercontent.com/salvolannister/Virtual_Shared_Reality_CLIENT/main/Images/FirstLevel_VR.PNG.jpg" height="290" value="Image of the shared environment from VR"><img src="https://raw.githubusercontent.com/salvolannister/Virtual_Shared_Reality_CLIENT/main/Images/SharedViewFromTablet.jpg" height="290" value="Image of the two users working together">
 
-[!Video https://www.youtube.com/watch?v=eKc-tVl6s58]
+[!Full Video https://www.youtube.com/watch?v=eKc-tVl6s58]
+
+
 ## Getting Started
 To use this application you need to use also the server. 
 1. Clone this project and WebApplication
